@@ -1,5 +1,5 @@
 body {
-  background: url("./img/Nature.jpg");
+  background: url("Nature.jpg");
   background-size: cover;
   overflow: hidden;
 }
@@ -7,7 +7,7 @@ body {
 #panda {
   position: relative;
   top: 300px;
-  background: url("/img/Panda.png ");
+  background: url("Panda.png ");
   width: 250px;
   height: 330px;
   animation: walking_animation 1s steps(12) infinite,
